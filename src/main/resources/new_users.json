@@ -1,0 +1,7 @@
+[
+ {"id":null,"name":"김민수","age":"20","region":"서울","telephone":"010-1111-1111"},
+ {"id":null,"name":"이민수","age":"21","region":"대전","telephone":"010-2222-2222"},
+ {"id":null,"name":"박민수","age":"22","region":"인천","telephone":"010-3333-3333"},
+ {"id":null,"name":"최민수","age":"23","region":"부산","telephone":"010-4444-4444"},
+ {"id":null,"name":"정민수","age":"24","region":"광주","telephone":"010-5555-5555"}
+]
